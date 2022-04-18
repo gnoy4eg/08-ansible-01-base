@@ -1,0 +1,1 @@
+### Отдельный репозиторий для ДЗ [08-ansible-01-base](https://github.com/gnoy4eg/netology.devops.pub/tree/main/homeworks/08-ansible-01-base)
